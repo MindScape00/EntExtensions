@@ -34,6 +34,8 @@ function RPRTME_FUNCT(msg, editbox)
 	end
 end
 
+-- Note; bit.ly/reportme1 links to http://jacburn.at.ua/reportme which is a custom redirect in itself, therefore changeable in the future to initialize updates on the link without actually changing the addon or base link itself.
+
 function RPRTMEFRAME_OnClick()
 	RPRTME_FUNCT();
 end

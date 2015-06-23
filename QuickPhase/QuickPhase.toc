@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: |cffff6060QuickPhase
+## Author: MindScape, Credits: Deramyr
+## Version: ReleaseBuild 5.3
+## Notes: Adds Many Phase Management commands to the right-click menu, as well as a GUI Element for Phase Moderation.
+## DefaultState: Enabled
+## X-Date: June 21, 2015
+## X-Website: http://bit.ly/ccaddons | http://divinity-x.net
+## X-Credits: Deramyr, LUA assistance and code writing; Scrivener, Naming; Everon, whimsical support; Sidriel, Original XAdmin implementation of similar features that influenced this; Chase, XML tips / whimsical support; Divinity-X, for it's years of service.
+## X-MostRecentChanges: 5.3 -> Command Syntax Changes (Ent 0.6.4). | 5.2 -> Updated to reflect Enteleaie Core changes: !phase kickplayer is now !phase removeplayer. | 5.1 -> Changed GUI, can now silence via CheckBox to broadcast to !phase announce.
+
+QuickPhaseGUI.xml
+## QuickPhase.lua

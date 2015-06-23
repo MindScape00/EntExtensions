@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: |cffCCCC00ReportMe
+## Author: MindScape
+## Version: ReleaseBuild 1.1
+## Notes: Add "/reportme" as a command. Will post in !ANN a message and link.
+## DefaultState: Enabled
+SavedVariablesPerCharacter: reportmemessage
+## X-Date: June 6, 2015
+## X-Website: http://epsilonwow.net
+## X-Credits: MindScape, Creation; Donor+, needing the addon; Community, for being idiots.
+## X-MostRecentChanges: 1.1 -> Fixed bugs and better message setting / checking.
+
+ReportMe.lua

@@ -3,6 +3,8 @@ Addons that work directly (or indirectly) with the Enteleiae core to extend its 
 
 * __QuickApp__
   * Adds "Appear" for Players, plus "Summon", and "Player Info" for Donors to the right-click menu. Powered by libEnteleaie
+* __QuickCharacter__
+  * Learns all Armor and Weapon Skills and titles on login. This may cause a bit of lag for new characters.
 * __QuickPhase__
   * Adds Many Phase Management commands to the right-click menu, as well as a GUI Element for Phase Moderation.
 * __QuickTell__

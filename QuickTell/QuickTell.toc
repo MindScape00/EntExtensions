@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: |cff00FF7FQuickTell
+## Author: MindScape
+## Version: ReleaseBuild 1.0
+## Notes: Changes how the Whisper button in the Right-Click menu works, allowing whispering of spaced names.
+## DefaultState: Enabled
+## X-Date: April 19, 2014
+## X-Website: https://github.com/MindScape00/EntExtensions
+## X-Credits: Deramyr- LUA assistance and code writing; Everon- whimsical support; Divinity-X- for what is was.
+## X-MostRecentChanges: Release
+
+QuickTell.lua

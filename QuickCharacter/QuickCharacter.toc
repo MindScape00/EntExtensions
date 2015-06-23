@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: |cff9999FFQuickCharacter
+## Author: MindScape
+## Version: ReleaseBuild 1.0
+## Notes: Learns all Armor and Weapon Skills and titles on login. This may cause a bit of lag for new characters.
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: CharacterHasBeenSeen
+## X-Date: May 13, 2014
+## X-Website: http://bit.ly/ccaddons ; http://divinity-x.net
+## X-Credits: 
+## X-MostRecentChanges: Release
+
+QuickCharacter.lua

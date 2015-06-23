@@ -1,4 +1,5 @@
-ReportMe | An Addon to disclaim that any issues should not be taken in "!ann" and should be handeled via a report.
+# ReportMe 
+An Addon to disclaim that any issues should not be taken in "!ann" and should be handeled via a report.
 
 Add "/reportme" & "/rm" as a command. Will post in !ANN a message and link. 
 By Default, this message is "If you have a problem, report me: http://bit.ly/reportme1"

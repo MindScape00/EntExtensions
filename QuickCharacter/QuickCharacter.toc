@@ -5,8 +5,8 @@
 ## Notes: Learns all Armor and Weapon Skills and titles on login. This may cause a bit of lag for new characters.
 ## DefaultState: Enabled
 ## SavedVariablesPerCharacter: CharacterHasBeenSeen
-## X-Date: May 13, 2014
-## X-Website: http://bit.ly/ccaddons ; http://divinity-x.net
+## X-Date: June 22, 2015
+## X-Website: https://github.com/MindScape00/EntExtensions
 ## X-Credits: 
 ## X-MostRecentChanges: Release
 

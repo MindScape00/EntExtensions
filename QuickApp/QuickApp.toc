@@ -1,0 +1,14 @@
+## Interface: 40000
+## Title: |cff00E5EEQuickApp
+## Author: MindScape, Deramyr
+## Version: ReleaseBuild 3.3
+## Notes: Adds "Appear" for Players, plus "Summon", and "Player Info" for Donors to the right-click menu. Powered by libEnteleaie
+## DefaultState: Enabled
+## OptionalDeps: libEnteleaie
+## X-Date: April 19, 2014
+## X-Website: http://bit.ly/ccaddons ; http://divinity-x.net
+## X-Credits: Deramyr, libEnteleaie, LUA assistance and code writing; Scrivener, Naming; Everon, whimsical support; Sidriel, Original XAdmin implementation of similar features that influenced this; Divinity-X, for being there.
+## X-MostRecentChanges: 3.3 -> Updated for Enteleaie 0.6.4 | 3.2 -> Compatability with QuickTell.
+
+libEnteleaie.lua
+QuickApp.lua

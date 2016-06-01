@@ -1,13 +1,13 @@
 ## Interface: 40000
 ## Title: |cff9999FFQuickCharacter
 ## Author: MindScape
-## Version: ReleaseBuild 1.0
-## Notes: Learns all Armor and Weapon Skills and titles on login. This may cause a bit of lag for new characters.
+## Version: ReleaseBuild 1.1
+## Notes: Learns all Armor and Weapon Skills and titles on login. This may lag for a moment for new characters on some lower-spec computers (Just give it a moment). (v1.1)
 ## DefaultState: Enabled
 ## SavedVariablesPerCharacter: CharacterHasBeenSeen
-## X-Date: June 22, 2015
+## X-Date: June 31, 2016
 ## X-Website: https://github.com/MindScape00/EntExtensions
 ## X-Credits: 
-## X-MostRecentChanges: Release
+## X-MostRecentChanges: 1.0 -> 1.1: Modified for 4.3.4a Enteleaie, Added /ccqc version check, added /qcrun to manually run the function.
 
 QuickCharacter.lua

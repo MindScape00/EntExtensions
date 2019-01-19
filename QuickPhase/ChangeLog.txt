@@ -1,0 +1,32 @@
+v6.0.0 (Legion Release) (Aug. 16 2017) 
+	- Redesigned / remade the Entry into the UnitPopupMenu frame with 2 main buttons under a general ConvenientCommands section
+		- "Phase Mod" for the ModUI or quick buttons to Kick, List, or Unlist
+		- "Phase Member" for quick buttons to add / remove / promote / demote a member.
+		- (Note: Clicking "Phase Mod" will bring up the UI, but an entry is also available for "ModUI" - they are the same, just both options incase people miss that you can just click on "Phase Mod" for it)
+	- Wildly cleaned up the code and reformatted comments
+	- Maintained Compatibility with QuickApp v4.0.0
+
+----------------------------------------
+
+v5.4.1 (LEGION ALPHA) (Aug. 13, 2017)
+	- Updated to Legion UnitPopUpFrames (Needs work to be more consistent, but works for now)
+	- Modified all commands to use new command structure in Legion Enteleaie (Azarchius) Core
+	- Modified Text Output for whispers to include [ALERT] to match .phase announce
+	- Changed Version to Major.Minor.Revision
+	
+----------------------------------------
+PRE-LEGION:
+----------------------------------------
+
+v5.3 (June 21, 2015)
+	- Command Syntax Changes (Ent 0.6.4).
+	
+----------------------------------------
+	
+v5.2 (Unknown)
+	- Updated to reflect Enteleaie Core changes: !phase kickplayer is now !phase removeplayer.
+
+----------------------------------------
+
+v5.1 (Unknown)
+	- Changed GUI, can now silence via CheckBox to broadcast to !phase announce.

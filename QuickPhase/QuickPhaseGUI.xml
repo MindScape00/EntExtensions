@@ -59,7 +59,11 @@
 			<Button name="HideButton" inherits="UIPanelButtonTemplate" text="X">
 				<Size x="15" y="15" />
 				 <Scripts>
-					<OnClick function="QPFormHide_OnClick"/>
+					<OnClick>
+						QuickPhaseFrame01:Hide();
+						QPReasonBox:SetText("")
+						QPPlayerNameBox:SetText("")
+					</OnClick>
 				</Scripts>
 				<Anchors>
 					<Anchor point="TOPRIGHT">

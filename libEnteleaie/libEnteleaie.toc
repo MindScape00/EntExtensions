@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: libEnteleaie
+## Author: Deramyr
+## Version: 1 
+## Notes: Extracted from other addons - possible lite version.
+## DefaultState: Enabled
+
+libEnteleaie.lua

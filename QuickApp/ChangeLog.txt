@@ -1,0 +1,22 @@
+v4.0.1 (Sept. 13, 2017)
+	- Fixed it not working.. how did no one notice and tell me for this long? ;(
+
+----------------------------------------
+
+v4.0.0 (Aug. 16, 2017) 
+	- Redesigned / remade the Entry into the UnitPopupMenu frame with 2 main buttons under a general ConvenientCommands section
+	- Wildly cleaned up the code and reformatted comments
+	- Maintained Compatibility with QuickPhase
+	- Changed Version format to Major.Minor.Revision
+	
+----------------------------------------
+
+v3.4 (July 27, 2017)
+	- Updated to Legion / New Enteleaie Core Syntax's
+	
+----------------------------------------
+PRE-LEGION:
+----------------------------------------
+
+v1.0 - v3.3 (Unknown)
+	- 

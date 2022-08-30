@@ -11,3 +11,6 @@ Addons that work directly (or indirectly) with the Enteleiae core to extend its 
   * Changes how the Whisper button in the Right-Click menu works, allowing whispering of spaced names.
 * __ReportMe__
   * Add "/reportme" as a command. Will post in !ANN a message and link. Customizeable Message via '/rms'.
+
+## Permissions
+You may not modify or redistribute the addons in any form without written expressed permission.
